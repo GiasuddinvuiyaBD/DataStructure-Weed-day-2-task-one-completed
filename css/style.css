@@ -1,0 +1,18 @@
+body 
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#unique 
+{
+	margin: 0;
+	padding: 18px;
+	text-align: center;
+	color: #fff;
+	background: #000;
+	
+}
+
+
